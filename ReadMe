@@ -1,0 +1,4 @@
+The "Coding" folder contains python code for,
+* Color Conversion - RGB to HSV, RGB to CMYK, RGB to Lab
+* Image Filtering - convolution, average, gaussian, median, brightness and contrast filters
+* Fourier Filtering
